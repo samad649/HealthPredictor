@@ -15,7 +15,7 @@ the data i used from mimic requires i not share it
 Summary:
 Currently i picked the info that i thought would be most useful & relevant to prediciting a diagnosis.
 As this class is information storage & retrieval, i used the clinic free text notes for each patient to create this naive bayes implementation.
-While it may not be the most effective i may incorperate other features to help bost accuracy scores.
+While it may not be the most effective i may incorperate other features to help boost accuracy scores.
 
 Future Plans:
 As of now, the accuracys scores vary based on the number of samples used to train and test,
