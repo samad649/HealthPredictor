@@ -20,6 +20,6 @@ While it may not be the most effective i may incorperate other features to help 
 Future Plans:
 As of now, the accuracys scores vary based on the number of samples used to train and test,
 also facing an issue where some the rarer diagnosis not being present in the training set so when they appear i am not able to predict.
-Add other features like demographic and lab scores to algorithm to imporve scores.
+Add other features like demographic and lab scores to algorithm to improve scores.
 
 
